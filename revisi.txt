@@ -1,0 +1,26 @@
+Judul buku: dunia sophie
+Pengarang buku: Sofies verden
+Tahun Terbit: 1996
+Lokasi buku: a22
+Tanggal Input: Thu Jul 27 22:04:13 2023
+
+Status: dipinjam
+
+------------------------------
+Judul buku: matahari
+Pengarang buku: tereliye
+Tahun Terbit: 2019
+Lokasi buku: a34
+Tanggal Input: Thu Jul 27 22:06:54 2023
+
+Status: tersedia
+
+------------------------------
+Judul buku: memasak roti
+Pengarang buku: nisa
+Tahun Terbit: 2020
+Lokasi buku: e123
+Tanggal Input: Thu Jul 27 22:07:21 2023
+
+Status: 
+------------------------------
